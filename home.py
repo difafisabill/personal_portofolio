@@ -121,7 +121,7 @@ with tab1:
     st.markdown(
     """
         <div class="custom-container">
-             <p>Excle</p>
+             <p>Excel</p>
             <img src="https://logodownload.org/wp-content/uploads/2020/04/excel-logo-0.png" alt="Excel Image">
             
         </div>
@@ -534,7 +534,7 @@ with tab2:
     st.header(" ")
  
    with col10:
-    st.image('./image/10.png', caption='Excel Portofolio')
+    st.image('./image/Screenshot 2024-02-14 092552.png', caption='Excel Portofolio')
 
     # Center the text using markdown and CSS
     centered_text_style = """
@@ -662,7 +662,7 @@ with tab3:
     st.markdown(f"<div style='{centered_text_style}'><a href='https://www.dicoding.com/certificates/KEXL0WDVWPG2' target='_blank'>Click to See</a></div>", unsafe_allow_html=True)
     st.header(" ")
 
-   st.header('Workshop Pesta Data Nasional')
+   st.header('Workshop Tableau Pesta Data Nasional')
    col9, col10 = st.columns(2)
    col21, col22= st.columns(2)
    with col21:
