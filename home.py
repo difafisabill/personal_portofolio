@@ -159,7 +159,7 @@ with tab1:
     """
         <div class="custom-container">
             <p>Tableu</p>
-            <img src="https://promto.com/wp-content/uploads/2019/08/icon-tableau-1.png" alt="tableu Image">
+            <img src="https://promto.com/wp-content/uploads/2019/08/icon-tableau-1.png" alt="tableau Image">
             
         </div>
     """,unsafe_allow_html=True
