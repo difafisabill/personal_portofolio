@@ -158,7 +158,7 @@ with tab1:
     st.markdown(
     """
         <div class="custom-container">
-            <p>Tableu</p>
+            <p>Tableau</p>
             <img src="https://promto.com/wp-content/uploads/2019/08/icon-tableau-1.png" alt="tableau Image">
             
         </div>
