@@ -423,6 +423,16 @@ I also worked on some group projects for build Machine Learning Model:
 with tab2:
 
    st.header("My Portofolio")
+
+    st.image('./image/211.png', caption='Dashboard Udemy using Tableau')
+
+    # Center the text using markdown and CSS
+    centered_text_style = """
+        display: flex;
+        justify-content: center;
+    """
+    st.markdown(f"<div style='{centered_text_style}'><a href='https://public.tableau.com/views/Udemy_course_17078732930430/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link'>Dashboard Udemy Course Analysis</a></div>", unsafe_allow_html=True)
+    st.header(" ")
    
    col1, col2 = st.columns(2)
    with col1:
